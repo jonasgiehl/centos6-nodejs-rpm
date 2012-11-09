@@ -7,6 +7,7 @@ This script create a RPM package of NodeJS for Centos6.
   * make
   * wget
   * rpmbuild
+  * g++ (for NodeJS compile)
 
 ###HowTo
   + Clone this repo
