@@ -15,6 +15,6 @@ This script create a RPM package of NodeJS for Centos6.
   + Run the **make rpm** command and wait while the package are compiled. 
 
 ###Thanks
- Thanks to Vibol Hou (http://vibol.hou.cc/installing-node-js-on-centos-6-3)
+ Thanks to Vibol Hou for this post and source http://vibol.hou.cc/installing-node-js-on-centos-6-3
 
   
