@@ -39,10 +39,7 @@ rm -rf %{buildroot}
 
 /usr/bin/node
 /usr/bin/npm
-/usr/bin/node-waf
-/usr/include/node
 /usr/share/man/man1/node.1.gz
-/usr/lib/node
 /usr/lib/node_modules
 /usr/lib/dtrace/node.d
 
